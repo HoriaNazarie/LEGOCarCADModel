@@ -10,35 +10,58 @@ I purchased a LEGO car and meticulously measured each piece to capture its exact
 - <b>Solid Edge CAD Software</b>
 
 <h2>Photos:</h2>
+### More in [CAD_drafts.pdf](https://github.com/HoriaNazarie/LEGOCarCADModel/blob/main/CAD_drafts.pdf)
+<br />
+<br />
 
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <p>Real-life LEGO Car</p>
+      <img src="https://github.com/HoriaNazarie/LEGOCarCADModel/blob/main/Photos/CAD_project_real.JPG?raw=true" 
+           height="90%" width="90%" alt="Real-life LEGO Car"/>
+    </td>
+    <td align="center">
+      <p>CAD Model of LEGO Car</p>
+      <img src="https://github.com/HoriaNazarie/LEGOCarCADModel/blob/main/Photos/CAD_project_final.jpg?raw=true" 
+           height="90%" width="90%" alt="CAD Model of LEGO Car"/>
+    </td>
+  </tr>
+ <tr>
+    <td align="center">
+      <p>Draft of the Final Result</p>
+      <img src="https://github.com/HoriaNazarie/LEGOCarCADModel/blob/main/Photos/CAD_drafts_final.jpg?raw=true" 
+           height="90%" width="90%" alt="Real-life LEGO Car"/>
+    </td>
+    <td align="center">
+      <p>Exploded View</p>
+      <img src="https://github.com/HoriaNazarie/LEGOCarCADModel/blob/main/Photos/CAD_drafts_explode.jpg?raw=true" 
+           height="90%" width="90%" alt="CAD Model of LEGO Car"/>
+    </td>
+  </tr>
+ <tr>
+    <td align="center">
+      <p>Real Life Part</p>
+      <img src="https://github.com/HoriaNazarie/LEGOCarCADModel/blob/main/Photos/CAD_real_base.JPG?raw=true" 
+           height="90%" width="90%" alt="Real-life LEGO Car"/>
+    </td>
+    <td align="center">
+      <p>CAD Model of Part</p>
+      <img src="https://github.com/HoriaNazarie/LEGOCarCADModel/blob/main/Photos/CAD_par_base.JPG?raw=true" 
+           height="90%" width="90%" alt="CAD Model of LEGO Car"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <p>Draft of the Part</p>
+      <img src="https://github.com/HoriaNazarie/LEGOCarCADModel/blob/main/Photos/CAD_drafts_base.jpg?raw=true" 
+           height="30%" width="30%" alt="Draft of the Part"/>
+    </td>
+  </tr>
+ 
+</table>
+
+
 
 <!--
  ```diff
