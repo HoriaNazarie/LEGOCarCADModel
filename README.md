@@ -10,7 +10,8 @@ I purchased a LEGO car and meticulously measured each piece to capture its exact
 - <b>Solid Edge CAD Software</b>
 
 <h2>Photos:</h2>
-### More in [CAD_drafts.pdf](https://github.com/HoriaNazarie/LEGOCarCADModel/blob/main/CAD_drafts.pdf)
+More photos in <a href="https://github.com/HoriaNazarie/LEGOCarCADModel/blob/main/CAD_drafts.pdf" target="_blank" 
+								rel="noopener noreferrer">CAD_drafts.pdf</a>
 <br />
 <br />
 
