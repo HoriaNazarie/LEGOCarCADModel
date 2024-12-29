@@ -1,8 +1,17 @@
-<h1>Lego Car 3D CAD Model</h1>
+<h1>LEGO Car 3D CAD Model</h1>
 
 <h2>Description</h2>
-I purchased a LEGO car and meticulously measured each piece to capture its exact dimensions and details. Using Solid Edge CAD software, I recreated each component individually with precision, ensuring they matched the original design. Once all the pieces were modeled, I assembled them into a complete 3D virtual model. Additionally, I created detailed 2D drafts of each piece, which are typically used by manufacturers as technical blueprints for production. To showcase the final assembly, I also generated an exploded view, providing a clear and comprehensive visualization of how the components fit together.
+I meticulously measured each piece of a LEGO car to capture its exact dimensions and details. Using Solid Edge CAD software, I recreated each component individually with precision, ensuring they matched the original design. Once all the pieces were modeled, I assembled them into a complete 3D virtual model. Additionally, I created detailed 2D drafts of each piece, which are typically used by manufacturers as technical blueprints for production. To showcase the final assembly, I also generated an exploded view, providing a clear and comprehensive visualization of how the components fit together.
 <br />
+
+<h4>What I Learned:</h4>
+
+<ul>
+  <li>Gained experience using <b>calipers to precisely measure</b> real LEGO parts for accurate digital modeling </li>
+  <li>Learned <b>CAD modeling skills</b>, including part design, assembly, and rendering techniques</li>
+  <li>Developed an understanding of <b>the relationship between physical components</b>, improving spatial visualization and design accuracy</li>
+  <li>Acquired knowledge of <b>technical drafting</b> for <b>presenting assembly instructions and component details professionally</b></li>
+</ul>
 
 
 <h2>Software and/or Programming Language Used</h2>
